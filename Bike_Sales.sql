@@ -1,5 +1,5 @@
 --Data source is from freeCodeCamp.org Youtube channel
-https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example/blob/master/data/sales_data.csv
+--https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example/blob/master/data/sales_data.csv
 
 Select *
 From sales

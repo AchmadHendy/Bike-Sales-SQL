@@ -1,3 +1,6 @@
+--Data source is from freeCodeCamp.org Youtube channel
+https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example/blob/master/data/sales_data.csv
+
 Select *
 From sales
 Order by Date
@@ -73,5 +76,3 @@ Select Country, sum(Profit) as Profit_per_Country
 From Sales
 Group By Country
 Order by Profit_per_Country desc
-
-
